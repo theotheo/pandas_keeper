@@ -1,0 +1,4 @@
+__pycache__
+.ipynb_checkpoints
+pandas_keeper.egg-info/
+pandas_keeper/__pycache__
