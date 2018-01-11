@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name='pandas_keeper',
       version='0.1',
-      description='Some helpers',
+      description='Some pandas helpers',
       url='',
       author='Ildar Belyalov',
       author_email='ibelyalov@yandex.ru',
